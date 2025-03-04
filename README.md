@@ -122,14 +122,12 @@ Conhecer as linguagens de programacao foi uma grande descoberta para mim. Entend
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200"  
     src="https://github-readme-stats.vercel.app/api?username=WESS97&show_icons=true&theme=tokyonight&custom_title=Status" 
   />
 
 <img 
-    align="right" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSS97&layout=compact&show_icons=true&theme=tokyonight&custom_title=Linguagens" 
